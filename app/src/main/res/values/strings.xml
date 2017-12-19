@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieListBeta</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="button_search">Search</string>
+
+    <string name="textview_title">Title</string>
+    <string name="textview_genre">Genre</string>
+    <string name="textview_runtime">Runtime</string>
+    <string name="textview_plot">Plot</string>
+
+    <string name="button_edit">Edit</string>
+    <string name="button_add">Add</string>
+
+    <string name="unknown_genre">Unknown Genre</string>
+    <string name="unknown_runtime">Unknown Runtime</string>
+
+</resources>
