@@ -46,7 +46,7 @@ class MovieListDataSource {
     };
 
     /**
-     * Erstellt einennn MovieListDataSource durch die, mithilfe eines {@link MovieListDbHelper}, die Datenbank verwaltet wird
+     * Erstellt einen MovieListDataSource durch die, mithilfe eines {@link MovieListDbHelper}, die Datenbank verwaltet wird
      *
      * @param c Kontext in dem die Datenbank genutzt wird
      */
